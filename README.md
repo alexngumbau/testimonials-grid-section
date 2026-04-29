@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/alexngumbau/testimonials-grid-section]
-- Live Site URL: [https://alexngumbau.github.io/testimonials-grid-section/]
+- Solution URL: (https://github.com/alexngumbau/testimonials-grid-section)
+- Live Site URL: (https://alexngumbau.github.io/testimonials-grid-section/)
 
 ## My process
 
@@ -50,5 +50,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [https://alexngumbau.github.io/testimonials-grid-section/]
-- Frontend Mentor - [https://www.frontendmentor.io/profile/alexngumbau]
+- Website - (https://alexngumbau.github.io/testimonials-grid-section/)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/alexngumbau)
